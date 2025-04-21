@@ -1,6 +1,6 @@
 # 📚 E-learning Site
 - A fully responsive 🌐 e-learning webpage crafted with HTML and Tailwind CSS.​
-- 🔗 [Live Demo](https://shruti-sen2004.github.io/Week2-Assignment/)
+- 🔗 [Live Demo](https://shruti-sen2004.github.io/E_learning_site/)
 
 ## 🛠️ Built With
 - 🧱 HTML
